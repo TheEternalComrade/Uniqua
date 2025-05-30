@@ -24,5 +24,8 @@ By [SuperbTech](https://www.instructables.com/member/Superb+Tech/)
 
 By [Dejan](https://howtomechatronics.com/author/howtom12_wp/)
 
+Learning about and examining these designs, I've started to see a rough bill of materials:
+
+2 stepper motors
 
 
