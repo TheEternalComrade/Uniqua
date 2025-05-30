@@ -16,9 +16,12 @@ So, I've taken to gobbling up every resource I can find about pen plotters.
 Here are some I've found so far:
 ![image](https://github.com/user-attachments/assets/383130a0-7df6-41c1-a4dc-08732876c0aa)
 From Aliexpress
+
 ![image](https://github.com/user-attachments/assets/de689cf7-326a-4623-85bf-82fbf7f8f83e)
 By [SuperbTech](https://www.instructables.com/member/Superb+Tech/)
+
 ![image](https://github.com/user-attachments/assets/fa97ddfb-8e67-406a-9af6-95dd355e1adf)
+
 By [Dejan](https://howtomechatronics.com/author/howtom12_wp/)
 
 
