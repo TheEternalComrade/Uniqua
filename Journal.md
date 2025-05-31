@@ -35,8 +35,13 @@ Learning about and examining these designs, I'm starting to see a rough bill of 
 - A 12v power supply
 
 One resource I found particularly helpful was [this plotter](https://www.youtube.com/watch?v=z4_OFkAW_JY&ab_channel=CreativityBuzz) 
-designed with wood instead of plastic parts. I foundnthat the design was a lot simpler without any of the frills plastic parts had. 
-This was extremely useful in helping me get an idea of how to design the toolhead
+designed with wood instead of plastic parts. I found that the design was a lot simpler without any of the frills plastic parts had. 
+This was extremely useful in helping me get an idea of how to design the toolhead.
+
+After a lot of YouTube videos, I sketched out a more detailed plan for The Scheme Machine. I wish I could say I had an intuitive goal for this, like convenience
+for The Prince Keeb, but I just want this to work TT.
+
+![20250530_212247](https://github.com/user-attachments/assets/ebd369d8-b7fe-4f3d-b6f4-0b1d41c5a149)
 
 
 Time Spent: 5 hours
