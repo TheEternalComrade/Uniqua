@@ -38,10 +38,21 @@ One resource I found particularly helpful was [this plotter](https://www.youtube
 designed with wood instead of plastic parts. I found that the design was a lot simpler without any of the frills plastic parts had. 
 This was extremely useful in helping me get an idea of how to design the toolhead.
 
-After a lot of YouTube videos, I sketched out a more detailed plan for The Scheme Machine. I wish I could say I had an intuitive goal for this, like convenience
+After a lot of YouTube videos, I sketched out a more detailed plan for The Scheme Machine. I wish I could say I had an intuitive goal for this, like I had convenience
 for The Prince Keeb, but I just want this to work TT.
 
 ![20250530_212247](https://github.com/user-attachments/assets/ebd369d8-b7fe-4f3d-b6f4-0b1d41c5a149)
+
+## June 4, 2025
+I've placed the first item in my 3d model! A humble Nema 42-40 stepper motor.
+![image](https://github.com/user-attachments/assets/a1182d79-db0c-42f6-b9e0-9483e253193e)
+
+Next, I want to place a pulley, but I realized I didn't know what size it needed to be. After looking at what other models used, I decided to go with a timing belt with a width of 6mm and a pitch(think wavelength) of 2mm, which means I need GT2 pulleys that also have a width of 6mm. I also need to figure out how high or low the pulley will be on stepper motor shaft. Looking through the Blot assembly guide, it seems top of the pulley should be flush with the top of the shaft.
+![image](https://github.com/user-attachments/assets/13a907e5-6f11-43ed-810b-87b498fd5b91)
+
+Now that I've got my first motor and pulley figures out, I s'pose its time to actually model some original parts. I want to create a sort of stand that will screw into the stepper motor, and also hold 2 of the y-axis linear rods. But, I shall procrastinate that until tommorrow.
+
+Time Spent: 1 hour
 
 
 Time Spent: 5 hours
