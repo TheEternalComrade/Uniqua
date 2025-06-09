@@ -43,6 +43,8 @@ for The Prince Keeb, but I just want this to work TT.
 
 ![20250530_212247](https://github.com/user-attachments/assets/ebd369d8-b7fe-4f3d-b6f4-0b1d41c5a149)
 
+Time Spent: 5 hours
+
 ## June 4, 2025
 I've placed the first item in my 3d model! A humble Nema 42-40 stepper motor.
 ![image](https://github.com/user-attachments/assets/a1182d79-db0c-42f6-b9e0-9483e253193e)
@@ -54,7 +56,17 @@ Now that I've got my first motor and pulley figures out, I s'pose its time to ac
 
 Time Spent: 1 hour
 
+## June 8, 2025
+I spent so much time fiddling with CAD software today. For some context, I use laptop. This laptop runs Windows, and for some wack-ahh reason, Fusion360 has basically no touchpad support for it. The only think I can do reliably is zoom in and out.
 
-Time Spent: 5 hours
+So, I decided to try out FreeCad. While it does have pretty good touchpad support, it's very different from Fusion360 and I felt really uncomfortable using it.
+
+I eventually went back to Fusion360, and it turns out it actually does have touchpad support, though it's a really weird method.
+
+I started designing the part that will sit on the y-axis stepper motor and will hold some of the y-axis linear rods. They're very rough rn, but I hope to make 'em look better in the future.
+![image](https://github.com/user-attachments/assets/d6e3703b-17e0-40b2-8b16-6a45a0198eea)
+
+
+Time Spent: 1 hour
 
 
