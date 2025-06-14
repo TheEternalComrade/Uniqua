@@ -69,4 +69,7 @@ I started designing the part that will sit on the y-axis stepper motor and will 
 
 Time Spent: 1 hour
 
+## June 13, 2025
+
+
 
