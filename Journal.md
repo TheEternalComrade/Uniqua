@@ -70,6 +70,22 @@ I started designing the part that will sit on the y-axis stepper motor and will 
 Time Spent: 1 hour
 
 ## June 13, 2025
+Today, I built more of my first y-axis section. 
+![image](https://github.com/user-attachments/assets/7a05886b-9e55-4d52-8c1d-71c294805d9b)
+<i>Isn't it need?</i>
 
+Funny story! For a while, I looked for a 3d model of linear rods of the size I needed for this. Then, I realized that I could just draw  8mm circle, and extrude it to the desire length. Convenient! 
+
+I also started desiging the first y-axis gantry. I had to spend some time figuring out how the linear ball bearings would fit.
+(insert screenshots here)
+
+Ultimately, I came up with a two-part deisgn where the bottom half of the gantry holds the bottom half of the linear ball bearings and the y-axis belt clip, while the top half of the gantry holds the top half of the bearings, has screw holes for the x-axis stepper motor, and holds the x-axis linear rods .
+
+While I was trying to deign the y-axis belt clip, I realized I didn't quite know how close it would be to the ball bearings. So, I went through the painstaking process of designing my own in the project. 
+![image](https://github.com/user-attachments/assets/6bd86ef8-4f1b-4139-9eb8-7fd00de7f39d)
+<i>Belt!</i>
+
+
+Time Spent: 3 hours
 
 
