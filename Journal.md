@@ -85,7 +85,7 @@ While I was trying to deign the y-axis belt clip, I realized I didn't quite know
 ![image](https://github.com/user-attachments/assets/6bd86ef8-4f1b-4139-9eb8-7fd00de7f39d)
 <i>Belt!</i>
 
-I think I'm done for today. next sension, I'll work on actually designing the belt clip, and the top part of the gantry.
+I think I'm done for today. Next session, I'll work on actually designing the belt clip, and the top part of the gantry.
 
 Time Spent: 3 hours
 
