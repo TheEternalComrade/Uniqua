@@ -78,6 +78,10 @@ Funny story! For a while, I looked for a 3d model of linear rods of the size I n
 
 I also started desiging the first y-axis gantry. I had to spend some time figuring out how the linear ball bearings would fit.
 (insert screenshots here)
+![17498711022763998460259937815160](https://github.com/user-attachments/assets/e1dd005b-1644-4a91-a110-bcf6fa917067)
+![20250613_205450](https://github.com/user-attachments/assets/fbfa9fcb-1ff4-47cf-bb94-63bb5d344800)
+![1749871131004886167080428974541](https://github.com/user-attachments/assets/e0f054f8-4157-4746-bd41-1491eb0c1de6)
+
 
 Ultimately, I came up with a two-part deisgn where the bottom half of the gantry holds the bottom half of the linear ball bearings and the y-axis belt clip, while the top half of the gantry holds the top half of the bearings, has screw holes for the x-axis stepper motor, and holds the x-axis linear rods .
 
