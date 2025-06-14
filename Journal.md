@@ -89,8 +89,28 @@ While I was trying to deign the y-axis belt clip, I realized I didn't quite know
 ![image](https://github.com/user-attachments/assets/6bd86ef8-4f1b-4139-9eb8-7fd00de7f39d)
 <i>Belt!</i>
 
-I think I'm done for today. Next session, I'll work on actually designing the belt clip, and the top part of the gantry.
+I think I'm done for today. Next session, I'll work on actually designing the belt clip, and the top part of the gantry. 
+
 
 Time Spent: 3 hours
+
+## June 14, 2025
+Today, I did a lot of work on the y-axis gantry.
+
+The thing that probably took me the most time was figuring out how the belt would be positioned.
+
+I was originally going for a thin wedge for it, until I realized it needed to have teeth to match the belt. I tought about using zip ties, but I don't want to add more expense to this project. Since I'm not that confident in my 3d modeling skills, I settled on this loop design, where teeth of the belt latch onto each other:
+![image](https://github.com/user-attachments/assets/2b4605d3-2355-4d04-9d89-3f9dece6c1e8)
+
+I still need to edit this a bit to ensure the bearing's stability, but I think it's pretty decent so far
+
+I also started working on the top part of the gantry. It took embarrassingly long amount time to figure out how to position it.
+
+This is what it looks like so far:
+![image](https://github.com/user-attachments/assets/fa113fd0-ffdb-4207-9f1b-471227351088)
+
+Since working on this is literally giving me a headache, Imma call it quits till next week. Next time, I wanna develop the top part of the y-axis gantry so that it can hold linear rods, a stepper motor pull, and the x-axis timing belt.
+
+Time Spent: 4 hours
 
 
