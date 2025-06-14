@@ -72,7 +72,7 @@ Time Spent: 1 hour
 ## June 13, 2025
 Today, I built more of my first y-axis section. 
 ![image](https://github.com/user-attachments/assets/7a05886b-9e55-4d52-8c1d-71c294805d9b)
-<i>Isn't it need?</i>
+<i>Isn't it neat?</i>
 
 Funny story! For a while, I looked for a 3d model of linear rods of the size I needed for this. Then, I realized that I could just draw  8mm circle, and extrude it to the desire length. Convenient! 
 
@@ -85,6 +85,7 @@ While I was trying to deign the y-axis belt clip, I realized I didn't quite know
 ![image](https://github.com/user-attachments/assets/6bd86ef8-4f1b-4139-9eb8-7fd00de7f39d)
 <i>Belt!</i>
 
+I think I'm done for today. next sension, I'll work on actually designing the belt clip, and the top part of the gantry.
 
 Time Spent: 3 hours
 
