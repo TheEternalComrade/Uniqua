@@ -1,5 +1,5 @@
 ---
-title: "The Scheme Machine"
+title: "Uniqua"
 author: "@Ayo"
 description: "A pen plotter for plotting schemes!"
 created_at: "2025-05-30"
@@ -112,5 +112,21 @@ This is what it looks like so far:
 Since working on this is literally giving me a headache, Imma call it quits till next week. Next time, I wanna develop the top part of the y-axis gantry so that it can hold linear rods, a stepper motor pull, and the x-axis timing belt.
 
 Time Spent: 4 hours
+
+## June 16, 2025
+So I decided to completely redesign my y-axis gantry.
+![image](https://github.com/user-attachments/assets/5c410ad7-d22a-4a1c-acd1-0ed7c2df8fb5)
+<i>Gantryless y-axis</i>
+
+I increased the spacing between the y-axis linear rods, because I realized doing so would allow the x-axis motor to fit better on the y-axis gantry. The dimensions of the stepper motors I plan on using are 42mmx42mm, while the spacing between the rods was previously 36mmx36mm
+
+I'm quite pleased with the general idea of my gantry, though I will have to go over an beautify it later on for taste.
+![image](https://github.com/user-attachments/assets/3e3c780a-328a-4d6d-ae89-97d682343081)
+
+This is what Uniqua looks like rn! Did I mention I named my pen plotter Uniqua?
+![image](https://github.com/user-attachments/assets/57b7e048-5927-4df2-9e44-42f2a88efbca)
+
+Time Spent: 2 hours
+
 
 
