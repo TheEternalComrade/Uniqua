@@ -128,5 +128,16 @@ This is what Uniqua looks like rn! Did I mention I named my pen plotter Uniqua?
 
 Time Spent: 2 hours
 
+## June 28, 2025
+Ok, so for some reason, I think one of my journal entries didn't save. What a shame. I don't quite remember what I wrote, but I will provide a rough summary based on the changes from the most previous picture.
+
+I realized that the idler pulleys do not have to be at the tippy top of the motor shaft, so I moved them down exactly 4.5mm. This allows the belt clips to be level with the linear bearing slots. This also reduces the height of the y-axis gantry by by allowing the x-axis stepper motor be placed lower.
+![image](https://github.com/user-attachments/assets/1dfe8027-a8b7-4d69-a5da-24e3de6b27db)
+
+I also completed most of the top part of my y-axis gantry.
+![image](https://github.com/user-attachments/assets/6269782f-0105-482c-8c39-c36cccb83335)
+
+Today, I started designing my pen gantry and made some screw holes to connect the two halfs of the y-axis gantry.
+
 
 
