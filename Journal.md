@@ -137,7 +137,14 @@ I realized that the idler pulleys do not have to be at the tippy top of the moto
 I also completed most of the top part of my y-axis gantry.
 ![image](https://github.com/user-attachments/assets/6269782f-0105-482c-8c39-c36cccb83335)
 
-Today, I started designing my pen gantry and made some screw holes to connect the two halfs of the y-axis gantry.
+Today, I started designing my pen gantry. 
+![image](https://github.com/user-attachments/assets/1afa1c71-d749-4170-be46-d5ffb8469eb9)
+<i>Sure it's just 2 linear bearings, but it's got vision</i>
+
+I also plotted and planned how I'd attach the two halves of the y-axis gantry. Or more specifically, where I'd put the screw holes. It was surprisingly difficult, as I have to make sure the screw dont effect the belts, stepper motors, linear rods, etc.
+
+Time spent: 1 hours
+
 
 
 
