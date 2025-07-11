@@ -149,8 +149,11 @@ Time spent: 1 hours
 It's been 12 days since I've worked on this project.
 
 I think I'm going to add limit switches to Uniqua. It would save me the trouble of having to manually home the switches each time I want to print something. The thing is, I'm not quite sure where to place them? I think I'll look at my 3d printer for inspiration.
+
 ----
+
 After examinination, I can conclude that the switches just needs to be at the extreme of each axis. 
 
 Then comes the issue of idler pulleys. The main problem of understanding I'm having is how to attach them with minimal friction. Examing my 3d printer, it seems that placing them directly against the plastic should be fine, but I could only see so much from my vantage point.
-Time Spent: 
+
+Time Spent: 1 hour
