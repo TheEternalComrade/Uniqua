@@ -157,3 +157,8 @@ After examinination, I can conclude that the switches just needs to be at the ex
 Then comes the issue of idler pulleys. The main problem of understanding I'm having is how to attach them with minimal friction. Examing my 3d printer, it seems that placing them directly against the plastic should be fine, but I could only see so much from my vantage point.
 
 Time Spent: 1 hour
+
+## July 13, 2025
+I've finally decided on the positioning for the y axis idler pulley. It doesn't seem to matter if it's flush with the plastic. But, I might need too add a nut sore something directly above it for stability.
+<img width="594" height="520" alt="image" src="https://github.com/user-attachments/assets/8dd9f552-35e3-4db8-8f72-dfa699ab2455" />
+
