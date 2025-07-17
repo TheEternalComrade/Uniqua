@@ -161,8 +161,33 @@ Then comes the issue of idler pulleys. The main problem of understanding I'm hav
 
 Time Spent: 1 hour
 
-## July 13, 2025
+## July 16, 2025
 I've finally decided on the positioning for the y axis idler pulley. It doesn't seem to matter if it's flush with the plastic. But, I might need too add a nut sore something directly above it for stability.
 
 <img width="594" height="520" alt="image" src="https://github.com/user-attachments/assets/8dd9f552-35e3-4db8-8f72-dfa699ab2455" />
+----
+I've also completed the main part of the gantry, where the pen will be.
+<img width="647" height="391" alt="image" src="https://github.com/user-attachments/assets/8ce7e537-64b6-4aed-b3f0-066a6363fe2f" />
+
+Next, I need to add the mechanisms for the actual penholder.
+This is the servo motor, which will be responsible for the lifting of the pen(to avoid stray lines)
+<img width="629" height="294" alt="image" src="https://github.com/user-attachments/assets/e5f28235-44fa-4049-8f42-a37ef06c1e45" />
+
+I found that in my attempts to make mounting holes for the 2 halves of the pen gantry, I had accidentally made them block the entry of the linear ball bearings
+<img width="306" height="321" alt="image" src="https://github.com/user-attachments/assets/c8a28079-7bf6-434d-9a00-5da08a789a87" />
+
+This is what they look like fixed
+<img width="449" height="384" alt="image" src="https://github.com/user-attachments/assets/1424db51-da7f-4781-885b-8b9fb685b464" />
+I'm most likely going to change them a little for greater stability. A note, I'm going to be using heatset inserts instead of screwing them into the plastic directly.
+----
+
+I've made a significant portion of my pen holder!
+<img width="647" height="486" alt="image" src="https://github.com/user-attachments/assets/d340a0b5-d6f8-4572-8c94-9b80ab9d9b53" />
+
+Time Spent: 4 hours
+
+
+
+
+
 
