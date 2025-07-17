@@ -177,15 +177,24 @@ I found that in my attempts to make mounting holes for the 2 halves of the pen g
 <img width="306" height="321" alt="image" src="https://github.com/user-attachments/assets/c8a28079-7bf6-434d-9a00-5da08a789a87" />
 
 This is what they look like fixed
+
 <img width="449" height="384" alt="image" src="https://github.com/user-attachments/assets/1424db51-da7f-4781-885b-8b9fb685b464" />
+
 I'm most likely going to change them a little for greater stability. A note, I'm going to be using heatset inserts instead of screwing them into the plastic directly.
 ----
 
 I've made a significant portion of my pen holder!
+
 <img width="647" height="486" alt="image" src="https://github.com/user-attachments/assets/d340a0b5-d6f8-4572-8c94-9b80ab9d9b53" />
 
 Time Spent: 4 hours
 
+
+## July 17, 2025
+
+So, I was originally goiing to mount the two halves of the y-axis gantry the same way I mounted the halves of the pen gantry(, as seen above. But I realized it would interfere with the linear ball bearings, so I settlee on this mounting option:
+
+<img width="563" height="552" alt="image" src="https://github.com/user-attachments/assets/b5e8c321-dd41-42c6-b8c5-b23ccc73bcb0" />
 
 
 
