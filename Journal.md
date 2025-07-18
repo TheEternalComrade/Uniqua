@@ -192,11 +192,14 @@ Time Spent: 4 hours
 
 ## July 17, 2025
 
-So, I was originally goiing to mount the two halves of the y-axis gantry the same way I mounted the halves of the pen gantry(, as seen above. But I realized it would interfere with the linear ball bearings, so I settlee on this mounting option:
+So, I was originally goiing to mount the two halves of the y-axis gantry the same way I mounted the halves of the pen gantry(, as seen above. But I realized it would interfere with the linear ball bearings, so I settled on this mounting option:
 
 <img width="563" height="552" alt="image" src="https://github.com/user-attachments/assets/b5e8c321-dd41-42c6-b8c5-b23ccc73bcb0" />
+I also added some anti-slip protection for the ball bearings
+<img width="197" height="460" alt="image" src="https://github.com/user-attachments/assets/63980641-16ce-4700-a147-63a63f8fa1a2" />
 
 
+Time spent: 1 hour
 
 
 
