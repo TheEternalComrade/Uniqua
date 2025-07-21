@@ -205,6 +205,7 @@ Time spent: 1 hour
 Time to add limit switches!!!
 
 After some consideration, I think Im gonna place the x axis limit switch on the pen gantry, and the y axis limit switch on the y-axis gantry.
+
 ----
 They have been placed!
 
