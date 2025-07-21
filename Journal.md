@@ -196,10 +196,20 @@ So, I was originally goiing to mount the two halves of the y-axis gantry the sam
 
 <img width="563" height="552" alt="image" src="https://github.com/user-attachments/assets/b5e8c321-dd41-42c6-b8c5-b23ccc73bcb0" />
 I also added some anti-slip protection for the ball bearings
+
 <img width="197" height="460" alt="image" src="https://github.com/user-attachments/assets/63980641-16ce-4700-a147-63a63f8fa1a2" />
 
-
 Time spent: 1 hour
+
+## July 21, 2025
+Time to add limit switches!!!
+
+After some consideration, I think Im gonna place the x axis limit switch on the pen gantry, and the y axis limit switch on the y-axis gantry.
+----
+They have been placed!
+
+<img width="680" height="393" alt="image" src="https://github.com/user-attachments/assets/19284ff0-9277-4938-b277-6b2c3bbcfe9b" />
+
 
 
 
