@@ -213,6 +213,20 @@ They have been placed!
 
 <img width="680" height="393" alt="image" src="https://github.com/user-attachments/assets/19284ff0-9277-4938-b277-6b2c3bbcfe9b" />
 
+----
+
+So, I completely forgot that the holes i placed to connect the halves of the y-axis gantry will intersect with the linear rods, so I had to change the design.
+
+<img width="655" height="515" alt="image" src="https://github.com/user-attachments/assets/9cdeb158-125e-4645-a3ff-2ca1e9548602" />
+
+----
+<img width="425" height="302" alt="image" src="https://github.com/user-attachments/assets/62513a58-b9ba-4176-8ea9-3282fff14abb" />
+
+I've added the linears rods that will be used for the pen lift mechanism.
+
+I also rounded the screw holes that will connect the gantry halves.
+
+
 
 
 
