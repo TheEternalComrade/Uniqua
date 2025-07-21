@@ -165,6 +165,7 @@ Time Spent: 1 hour
 I've finally decided on the positioning for the y axis idler pulley. It doesn't seem to matter if it's flush with the plastic. But, I might need too add a nut sore something directly above it for stability.
 
 <img width="594" height="520" alt="image" src="https://github.com/user-attachments/assets/8dd9f552-35e3-4db8-8f72-dfa699ab2455" />
+
 ----
 I've also completed the main part of the gantry, where the pen will be.
 <img width="647" height="391" alt="image" src="https://github.com/user-attachments/assets/8ce7e537-64b6-4aed-b3f0-066a6363fe2f" />
@@ -181,6 +182,7 @@ This is what they look like fixed
 <img width="449" height="384" alt="image" src="https://github.com/user-attachments/assets/1424db51-da7f-4781-885b-8b9fb685b464" />
 
 I'm most likely going to change them a little for greater stability. A note, I'm going to be using heatset inserts instead of screwing them into the plastic directly.
+
 ----
 
 I've made a significant portion of my pen holder!
