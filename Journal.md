@@ -232,9 +232,14 @@ Hole created!
 <img width="703" height="363" alt="image" src="https://github.com/user-attachments/assets/b67861cb-9415-4ffc-a9ef-3afdf3d9e3d2" />
 
 ----
-Next, I need to add some flair to all the part and a case for the electronics
+Next, I need to add some flair to all the parts and a case for the electronics
 
 Time Spent: 3 hours
+
+## June 22, 2025
+I've added the holes for the pen grip, which will allow for a firmer fit. I also increased the length of the penholder part so that a shorter spring can push it down.
+<img width="396" height="519" alt="image" src="https://github.com/user-attachments/assets/22dc297c-b06a-444a-8e68-5ed1b8c5a7be" />
+
 
 
 
