@@ -222,9 +222,21 @@ So, I completely forgot that the holes i placed to connect the halves of the y-a
 ----
 <img width="425" height="302" alt="image" src="https://github.com/user-attachments/assets/62513a58-b9ba-4176-8ea9-3282fff14abb" />
 
-I've added the linears rods that will be used for the pen lift mechanism.
+I've added the linear rods that will be used for the pen lift mechanism. In addition, I've made a significant portion of the actual holder part of the pen holder. I just need to add holes for the tightening screws. The little cylinder is for the servo motor to push up on, though I might have to replace it with a M2 screw for printability. Actually, I'm defintely going to do that.
 
-I also rounded the screw holes that will connect the gantry halves.
+<img width="351" height="430" alt="image" src="https://github.com/user-attachments/assets/ae9c8eee-08d4-4dff-ae80-436f9aaa0c1d" />
+
+----
+Hole created!
+
+<img width="703" height="363" alt="image" src="https://github.com/user-attachments/assets/b67861cb-9415-4ffc-a9ef-3afdf3d9e3d2" />
+
+----
+Next, I need to add some flair to all the part and a case for the electronics
+
+Time Spent: 3 hours
+
+
 
 
 
