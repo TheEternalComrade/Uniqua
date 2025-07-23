@@ -238,8 +238,14 @@ Time Spent: 3 hours
 
 ## June 22, 2025
 I've added the holes for the pen grip, which will allow for a firmer fit. I also increased the length of the penholder part so that a shorter spring can push it down.
+
 <img width="396" height="519" alt="image" src="https://github.com/user-attachments/assets/22dc297c-b06a-444a-8e68-5ed1b8c5a7be" />
 
+----
+Upon concerns of stability, I redesigned the holder for the stepper motor so that it can be mounted upside down. This will allow me to use a threaded insert near the bottom.
+<img width="384" height="469" alt="image" src="https://github.com/user-attachments/assets/e59b14a3-11d3-471f-be8d-65b783801bbb" />
+
+Time Spent: 2 hours
 
 
 
