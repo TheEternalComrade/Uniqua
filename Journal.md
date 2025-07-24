@@ -247,6 +247,18 @@ Upon concerns of stability, I redesigned the holder for the stepper motor so tha
 
 Time Spent: 2 hours
 
+## June 23, 2025
+Today, I spent a bunch of time optimizing my BOM. I had to sligthly shift a part though because I've chosen a new stepper motor.
+
+I'm pretty exciteed because i'm so close to being done!
+
+----
+
+Turns out i accidentally moved the y axis stepper motor too high, which means I had to undo a bunch of work.
+
+----
+Time spent:
+
 
 
 
