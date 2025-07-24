@@ -245,6 +245,7 @@ I've added the holes for the pen grip, which will allow for a firmer fit. I also
 Upon concerns of stability, I redesigned the holder for the stepper motor so that it can be mounted upside down. This will allow me to use a threaded insert near the bottom.
 <img width="384" height="469" alt="image" src="https://github.com/user-attachments/assets/e59b14a3-11d3-471f-be8d-65b783801bbb" />
 
+
 Time Spent: 2 hours
 
 ## June 23, 2025
@@ -257,7 +258,15 @@ I'm pretty exciteed because i'm so close to being done!
 Turns out i accidentally moved the y axis stepper motor too high, which means I had to undo a bunch of work.
 
 ----
-Time spent:
+I finally imported a model of the electronics controller into my CAD. I'm still deciding whether I want this part to be tethered to the rest of Uniqua or not. 
+I think I'm pretty much done with the main kinematics system, so I just need to yassify Uniqua and make a case for the controller board.
+
+My progress so far:
+
+<img width="1160" height="756" alt="image" src="https://github.com/user-attachments/assets/1ebbdd6b-2e21-4d1a-88de-a5cbc2ad5779" />
+
+
+Time spent: 3 hours
 
 
 
