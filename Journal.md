@@ -5,6 +5,8 @@ description: "A pen plotter for plotting schemes!"
 created_at: "2025-05-30"
 ---
 
+#Total Time Spent: 
+
 ## May 30, 2025
 Today, I started brainstorming. Imma be honest, I feel completely out of my depth with this one.
 With a keyboard, there are plenty of resources, and I had completed Hackpad before to boot.
@@ -236,7 +238,7 @@ Next, I need to add some flair to all the parts and a case for the electronics
 
 Time Spent: 3 hours
 
-## June 22, 2025
+## July 22, 2025
 I've added the holes for the pen grip, which will allow for a firmer fit. I also increased the length of the penholder part so that a shorter spring can push it down.
 
 <img width="396" height="519" alt="image" src="https://github.com/user-attachments/assets/22dc297c-b06a-444a-8e68-5ed1b8c5a7be" />
@@ -248,7 +250,7 @@ Upon concerns of stability, I redesigned the holder for the stepper motor so tha
 
 Time Spent: 2 hours
 
-## June 23, 2025
+## July 23, 2025
 Today, I spent a bunch of time optimizing my BOM. I had to sligthly shift a part though because I've chosen a new stepper motor.
 
 I'm pretty exciteed because i'm so close to being done!
@@ -268,7 +270,7 @@ My progress so far:
 
 Time spent: 3 hours
 
-## June 24, 2024
+## July 24, 2024
 SHE'S DONE! Or at least, very close to. I think A little yassification is still in order, plus I need to figure out firmware, but other than that, we're pretty good!
 
 I successfully made a case for the controller boards:
@@ -286,4 +288,9 @@ Time to learn GRBL I guess. The things we do for our children...
 
 Time Spent: 2 hours
 
+## July 25, 2024
+So turn out, GRBL is pretty well documented, so it won't be much trouble to learn. The thing is, I cannot do anything with it until I get the actual parts.
+This is the same with UGS, which wil allow g-code(cnc machine code, basically) to be converted to something that a GRBL can read and use to send instructions to the pen plotter.
+
+So, for firmware, I'm probably just going to include g-code for a drawing, or the output from UGS for a drawing.
 
