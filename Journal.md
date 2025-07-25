@@ -268,9 +268,22 @@ My progress so far:
 
 Time spent: 3 hours
 
+## June 24, 2024
+SHE'S DONE! Or at least, very close to. I think A little yassification is still in order, plus I need to figure out firmware, but other than that, we're pretty good!
 
+I successfully made a case for the controller boards:
 
+<img width="752" height="514" alt="image" src="https://github.com/user-attachments/assets/0774d7bf-209d-4b74-9ea6-ce48e01ed8ab" />
+This part will be free floating!
 
+So, I think this is the finished cad:
 
+<img width="869" height="689" alt="image" src="https://github.com/user-attachments/assets/48a1cbed-5eac-424f-9092-48c92bd1fdbe" />
+So many hours of work, and finally the end is in sight!
+
+So, Uniqua will need instructions so she can draw pretty pictures like the pretty pretty girl she is. Like parent, like daughter.
+Time to learn GRBL I guess. The things we do for our children...
+
+Time Spent: 2 hours
 
 
