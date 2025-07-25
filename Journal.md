@@ -5,7 +5,7 @@ description: "A pen plotter for plotting schemes!"
 created_at: "2025-05-30"
 ---
 
-#Total Time Spent: 
+#Total Time Spent: 37 hours
 
 ## May 30, 2025
 Today, I started brainstorming. Imma be honest, I feel completely out of my depth with this one.
@@ -293,4 +293,12 @@ So turn out, GRBL is pretty well documented, so it won't be much trouble to lear
 This is the same with UGS, which wil allow g-code(cnc machine code, basically) to be converted to something that a GRBL can read and use to send instructions to the pen plotter.
 
 So, for firmware, I'm probably just going to include g-code for a drawing, or the output from UGS for a drawing.
+
+----
+After a bunch of research it seems I need my parents permission to use Inkscape for generating gcode.
+But for now, I used an online svg to gcode converted.
+
+Finally, I'm going to attach the electronic components more pleasantly and prepare this project for submission.
+
+Time Spent: 4 hours
 
