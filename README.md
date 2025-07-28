@@ -2,12 +2,13 @@
 A pen plotter for plotting schemes!
 
 ## CAD
+<img width="690" height="512" alt="image" src="https://github.com/user-attachments/assets/8aa379eb-93bb-436f-86bc-1acc75314d31" />
+
 
 ## Wiring
 <img width="474" height="343" alt="image" src="https://github.com/user-attachments/assets/9d6dde57-ed8b-4e34-9c51-7f1ab46ce735" />
 
 Credits to [Krishna Kumar](https://www.hackster.io/kk1211114) for the diagram
-
 
 
 ## BOM
