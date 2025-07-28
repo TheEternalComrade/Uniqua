@@ -1,4 +1,4 @@
-# The-Scheme-Machine
+# Uniqua
 A pen plotter for plotting schemes!
 
 ## CAD
