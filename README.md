@@ -1,5 +1,6 @@
 # Uniqua
-A pen plotter for plotting schemes!
+Uniqua is very cool pen plotter. She has 2 y-axis' to increase stability, limit switches for automatic homing, and a very good sense of style.
+This is the most complex project I have ever undertaken, despite the relatively off-the-shelf electronics setup. The CAD is completely custom
 
 ## CAD
 <img width="690" height="512" alt="image" src="https://github.com/user-attachments/assets/8aa379eb-93bb-436f-86bc-1acc75314d31" />
