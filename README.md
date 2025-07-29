@@ -38,6 +38,6 @@ Credits to [Krishna Kumar](https://www.hackster.io/kk1211114) for the diagram
 |*m2 x 10 screw|For pen lift mechanism and fastening limit switches|Aliexpress|$~1.5|none||
 |*m2 x 3 heatset inset|For holding screws|Aliexpress|~$1.5|none||
 |Taxes|governments|Aliexpress|$6|||
-|||||||
+||||||$132.66|
 
 *Already have these
