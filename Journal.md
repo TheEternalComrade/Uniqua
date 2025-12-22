@@ -316,5 +316,6 @@ To recount the build process I:
 * DO SO MUCH GOSH DARN GRBL Configuration
 
 And finally, she drew!
+https://www.youtube.com/shorts/BBWFe8nOr4c
 
 While Uniqua can draw pretty decently now, there are definitely improvements that can be made. For one, she needs to learn how to write forwards! For another, her legs need to be more stable. A cool idea I hope to explore with Uniqua is handwriting...
